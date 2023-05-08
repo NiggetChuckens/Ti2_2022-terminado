@@ -162,5 +162,5 @@ Favor seguir las reglas de conducta del producto.
 ## 🔗 Links de los desarrolladores
 Rigo (https://github.com/Cinnamotion)
 Nicolas (https://github.com/Nipicoco)
-Rodrigo (https://github.com/RodrigoAlt11)
+Rodrigo (https://github.com/NiggetChuckens)
 Pato (https://github.com/patoskixd)
